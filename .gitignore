@@ -1,0 +1,23 @@
+
+# temporary files
+*~
+*.swp
+
+# inputs and outputs
+*.npy
+*.npz
+*.caffemodel
+
+# python and jupyter stuff
+.ipynb_checkpoints
+__pycache__
+
+# tf checkpoint stuff
+checkpoint
+*.index
+*.meta
+*.data-[0-9]*-of-[0-9]*
+
+# core dumps. because caffe (and sometimes tf) tends to do that...
+core
+
