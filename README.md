@@ -47,6 +47,7 @@ There are a few scripts going around for converting any Caffe model into a tenso
 The original VGG19 model and weights were published by [Simonyan and Zisserman](http://www.robots.ox.ac.uk/%7Evgg/research/very_deep/) under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
 
 Cat image CC0 by InstaWalli: https://www.pexels.com/photo/brown-tabby-cat-167773/
+
 Penguin image CC0 by MemoryCatcher: https://pixabay.com/en/penguins-emperor-antarctic-life-429128/
 
 ## License
